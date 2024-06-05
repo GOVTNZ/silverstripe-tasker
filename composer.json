@@ -9,7 +9,7 @@
     "email": "will@fullscreen.io"
   }],
   "require": {
-    "silverstripe/framework": "^4",
+    "silverstripe/framework": "^5",
     "masterminds/html5": "^2.3"
   },
   "require-dev": {
